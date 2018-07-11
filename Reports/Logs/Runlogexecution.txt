@@ -1,0 +1,22 @@
+Run log for execution and time stamps
+------------------------------------
+
+1006 Started jprofiler.. sampling profile...
+1007..permonf
+1008...10user trigger... 10 user 15 min 
+1031  run end
+1032 capturing anaylis in tooling
+1034 run start 50 user
+1110 run end 50 user
+1113 capture analysis in tooling
+1112 save jprofiler
+1115 save permon
+---------------------------------------------
+
+
+
+
+
+
+
+
